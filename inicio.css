@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    background-color: black;
+}
+
+#titulo {
+    color: brown;
+}
+
+#img-logo {
+    width: 170px;
+}
+
+#img-fundo-inicio {
+    
+}
